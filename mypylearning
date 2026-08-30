@@ -1,0 +1,238 @@
+#let's build robot baristal!
+#print("Jamie is black and a tsundere tomboy")
+#print("hello welcome to netwrk chuck coffee!!!!!!!!!!")
+#name = input("what is your name? \n ")
+#if name == "loki" or name == "loki":
+ #   print("We have a hulk")
+  #  exit()  
+
+#if name == "ben" or name == "patricia" or name == "netanyahu":
+#    evil_status = input("are you evil? \n")
+ #   good_deeds = int(input("how many good deeds have you done today? \n"))
+  #  if evil_status == "yes" and good_deeds < 4:
+       #this part was hard to figure out but using the And operation was easier than i thought
+       
+   #   print("get out of my store, you are not welcome here, evil " + name + " is not welcome here")
+    #  exit()
+    #else:
+     #   print("make youself at home " + name + " we love non-evil" + name +  "around here")
+#age = int(input("how old are you ? \n"))
+#if age < 18 or age > 120:
+ #   if age <18:
+  #   print("get out of my store, people under the age of 18 are  not welcome here")
+   # elif age > 120:
+    #    print("get out of my store, people over the age of 120 are not welcome here")
+    #exit()
+#else:
+ #   print("hello " + name + " welcome to network chuck coffee, we are happy to have you here today. \n \n \n")
+#menu = " coffee, black tea, green tea, hot chocolate, cappuccino, latte, espresso, macchiato, mocha, chai latte, matcha latte, iced coffee, iced tea, smoothie, milkshake, fries, pizza slice.\n"
+
+#print("hello , " + name + ", thank you so much for coming to network chuck coffee. \n \n \n")
+
+#menu = input(" what would you like to order today? \n" + "here is what we are serving: " + menu + "\n\n")
+#print(menu + " is a great choice, " + menu + " will be ready in a few moments.")
+
+#if menu == "pizza slice":
+ #   price = 12
+#elif menu == "coffee":
+ #     price = 9
+#else : 
+ #   price = 5.00
+#quantity = input("how many would you like? \n")
+#total = price * int(quantity)
+#print("thank you for your order", name, ". Your total is $" + str(total) + ". \n \n \n")
+#print ( " sounds good, " + name + " we'll have that ready for you in a minute. \n \n \n")
+#we stoped at line 27 the video about if if if if ...elif minute 13:37
+# Python Lab Exercise
+# Complete the TODOs below.
+#after line 3 this was day one 
+#print("hello world !!!!!!!!!!!!!!!!!!!!!")
+#print('I am Iron Man')
+#print ("no, I am tony Stark ")
+#print ("No, I am poppy")
+#we are practicing python...IT's awsome!!!
+#when there is an # the computer will not read it 
+#learning python lowkey tuff
+#print("""I am Iron Man.
+# No, I am tony Stark.
+#  No, I am poppy.""")
+ #print("I am Iron Man"+ "No, I am Tony Stark"+ "No, I am poppy") 
+# print("jamie is a tsundere tomboy")
+
+
+#let's build robot baristal!
+#print("hello welcome to netwrk chuck coffee!!!!!!!!!!")
+#name = input("what is your name? \n ")
+#race = input("what race are you from? \n")
+#if race == "black"or "Black":
+#    print("get out of my store,you are not welcome here, " + race + " people are  not welcome here")
+#    exit()
+#else:
+  #  print("hello " + name + " welcome to network chuck coffee, we are happy to have you here today. \n \n \n")
+#menu = " coffee, black tea, green tea, hot chocolate, cappuccino, latte, espresso, macchiato, mocha, chai latte, matcha latte, iced coffee, iced tea, smoothie, milkshake, fries"
+#print("hello , " + name + ", thank you so much for coming to network chuck coffee. \n \n \n")
+#menu = input(" what would you like to order today? \n" + "here is what we are serving: " + menu + "\n")
+#print(menu + " is a great choice, " + menu + " will be ready in a few moments.")
+#order = input()
+#price = 5.00
+#quantity = input("how many would you like? \n")
+#total = price * int(quantity)
+#print("thank you for your order", name, ". Your total is $" + str(total) + ". \n \n \n")
+#print ( " sounds good, " + name + " we'll have that ready for you in a minute. \n \n \n")
+# you better rewatch the video ep4 and fix mistakes now it's cardio time 
+# i fixed the mistakes without rewatching the video ep4 and i am proud of myself
+
+
+#self project tsundere robot 
+#print (" hi.. or whatever.. i guess you want coffee or something..baka..")
+#print (" my name is nvm.. you dont need that.. baka..")
+#input ("guess i will need you name or whatever.. \n")
+#name = input(" guess i will need your name or whatever.. \n")
+#name = menu = "coffee, black tea, green tea, hot chocolate, cappuccino, latte, espresso, macchiato, mocha, chai latte, matcha latte, iced coffee, iced tea, smoothie, milkshake, fries"
+#print("here is what we are serving or whatever...: " + menu + "\n")
+#input("i guess you can order now.. baka..\n")
+#order = input()
+#print("i guess " + order + " is a good choice.." + " + name + ")
+#what to do now i wonder... JAMIE what should i do now!!!!!!!! im bored  and dont know what i wanna do no more 
+
+#let's play with numbers 
+#name = "David"
+#age = 18
+#actual_age =18.3
+#print(name)
+#print(age)
+#print(actual_age)
+#print(type(name))
+#print(type(age))
+#print(type(actual_age))
+#math = (5 ** 7 + 6 / 9 * 6 -4 )
+#print(math)
+#result = actual_age + age + math
+#print(result) 
+
+
+#print("hello world !!!!!!!!!!!!!!!!!!!!!")
+#print('I am Iron Man')
+#print ("no, I am tony Stark ")
+#print ("No, I am poppy")
+#we are practicing python...IT's awsome!!!
+#when there is an # the computer will not read it 
+#learning python lowkey tuff
+#print("""I am Iron Man.
+# No, I am tony Stark.
+#  No, I am poppy.""")
+#print("I am Iron Man. \n"+ "No, I am Tony Stark.\n"+ "No, I am poppy")
+#print("I am Iron man\n"*100)
+#camp_stuff = " sleeping bag, tent, flashlight, water bottle, first aid kit, map, compass, insect rep, ethernet cable, power bank, snacks, sunscreen, hat, jacket, hiking boots, binoculars, camera, camping stove, cooking utensils, camping chairs, camping table, camping lantern, camping hammock, camping pillow, camping mat, camping blanket, camping towel"
+#print (camp_stuff)
+#python list
+#supplies= ["sleeping bag", "tent", "flashlight", "water bottle", "first aid kit", "map", "compass", "insect repellent", "ethernet cable", "power bank", "snacks", "sunscreen", "hat", "jacket", "hiking boots", "binoculars", "camera", "camping stove", "cooking utensils", "camping chairs", "camping table", "camping lantern", "camping hammock", "camping pillow", "camping mat", "camping blanket", "camping towel" ]
+#print(type(supplies))
+#amp_site_list = ["crystal lake", "404", " 89.5 ", "true"]
+#supplies.extend(["toilet paper", "bidet"])
+#supplies.append("toilet paper")
+#supplies = supplies + ["toilet paper", "bidet"]
+#supplies.insert(0, " I am a genius")
+#supplies.insert(-1 , "toilet paper")
+#supplies.insert(0, "bidet")
+#print(type(camp_site_list))
+#print(camp_site_list)
+#me = supplies[-2]
+#print (me)
+#print(supplies[0:5])
+#print(supplies) ### here is the problem from line 35 it was printing the code at this time frame instead of at the point after the remove command
+#supplies.clear()  this method is nuclear it erase everything in the list use with care
+#supplies.remove("tent")
+#supplies.remove("sleeping bag") #can only remove one item at a time with this method and need  to fix the code it wont remove sleeping bag 
+#print("This item was just deleted " + supplies.pop(0))
+#supplies.pop(0) # after using the first pop the 1 index will become the new 0 because the first 0 is no longer there
+
+#print(supplies)
+#import timeit 
+#alist = ["benard", "hackell", 92]
+#alist[0]= "chuck"
+#print(alist)
+#print(type(alist))
+#atuple = ("benard", "hackell", 92)
+#print(type(atuple))
+#atuple[0]= "david"  this will not work because you cant change tuple
+#print(timeit.timeit(stmt='["benard", "hackell", 92]', number = 1000000)) 
+#print(timeit.timeit(stmt='("benard", "hackell", 92)', number = 1000000)) 
+#name, age , superhero) = identity 
+#print(name)
+#print(age)
+#print( superhero)
+#blablabla= 1, # by adding a coma(,) you make this 1 turn into a tuple data type
+#print(type(blablabla))
+
+
+
+
+                      # the one under is clanker code i wanted to test someting
+# --- STEP 1: PREPARE THE BAG OF HOLDING ---
+#camp_supplies = ["tent", "flashlight", "water bottle", "ethernet cable", "first aid kit"]
+
+#print("--- INSPECTING CAMP GEAR ---")
+
+# --- STEP 2: CAST THE LOOP CANTRIP ---
+# 'item' is a temporary Soul Gem created just for this loop!
+#for item in camp_supplies:
+ #   print("⚡ Gear loaded into inventory:", item.upper())
+
+#print("\n10,000% READY FOR THE EXPEDITION!")
+                # from this its  debug hunt
+
+
+
+# --- REAL-WORLD NETWORK BUG: IPv4 VALIDATOR ---
+# NetworkChuck CCNA Rule: An IPv4 address must have 4 octets (0 - 255) separated by dots.
+
+#target_ip = "192.168.1.300"  # BAD IP! No octet can be greater than 255!
+
+# Step 1: Split the IP string into a list of individual octet strings
+#octets = target_ip.split(".")
+
+#print("Checking IP structure for:", target_ip)
+
+#is_valid = True
+
+# Step 2: Loop through each octet to verify value
+#for octet in octets:
+    # BUG 1 & BUG 2 ARE HIDDEN IN THIS IF STATEMENT:
+ #   if int(octet) > 255 or int(octet) < 0:
+  #      is_valid = False
+
+# Step 3: Verify total octet count
+# BUG 3 IS HERE:
+#if len(octets) != "4":
+ #   is_valid = False
+
+#if is_valid == True:
+ #   print("✅ SUCCESS: IP is valid! Deploying ping packet...")
+#else:
+ #   print("❌ ERROR: Invalid IP address detected! Packet dropped.")
+
+
+    #day 2 of debuging clancker code
+    # --- DAY 2 TOOL: CCNA CLASS IDENTIFIER ---
+
+ip_address = input("Enter an IP address")
+
+# Step 1: Split the IP into octets
+octets = ip_address.split(".")
+
+# Step 2: Extract the FIRST octet and convert it to an integer
+first_octet = int(octets[0])
+
+# Step 3: Classify based on CCNA ranges!
+if first_octet >= 1 and first_octet <= 126:
+    print("🌐 This is a Class A IP Address!")
+elif first_octet >= 128 and first_octet <= 191:
+    print("🌐 This is a Class B IP Address!")
+elif first_octet >= 192 and first_octet <= 223:
+    print("🌐 This is a Class C IP Address!")
+else:
+    print("⚠️ Loopback, Multicast, or Reserved IP!") 
+    print("my name is the watcher/n")
+    name= imp("what is your name")
+    
