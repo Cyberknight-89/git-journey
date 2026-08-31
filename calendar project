@@ -1,0 +1,8 @@
+#what to build now  
+#this is my first project 
+#simple calendar why not
+import calendar
+year=int(input("enter year:\n"))
+month=int(input("enter month"))
+print("\n",calendar.month(year,month))
+ 
