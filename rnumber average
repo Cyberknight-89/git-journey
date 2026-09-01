@@ -1,0 +1,6 @@
+print("pick 3 random numbers\n")
+number1=int(input("choose something\n"))
+number2=int(input("cmon man, got placess to be\n"))
+number3=int(input("finaly\n"))
+average=(number1+number2+number3)/3
+print("average is", average)
