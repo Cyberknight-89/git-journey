@@ -1,0 +1,13 @@
+print("welcome aboard" "hi class")
+wage=int(input("wage"))
+hour=int(input("hour"))
+weeks= int(input("weeks"))
+salary= wage * hour * weeks   
+if salary < 500 :
+        print("broke")
+if salary > 500:
+        print("land me 20 bucks.")    
+if salary = 0 
+        print()    
+'''
+this code calclate emplyes salary.
