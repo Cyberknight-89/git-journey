@@ -1,0 +1,12 @@
+'''
+name= input("what is your name\n")
+age= input("how old are you\n")
+print=(f"my name is {name}, and i am {age} years old.")
+# f before "" is called a place older
+'''
+pi=3.141516
+print(f"{pi:.3f}")
+#to pick the number of number after the . you use :.#f (by # i meant number) 
+# and if the number after the number you pick is greater than 5 it will be rounded.
+#variable cant start with numbers
+#no special characters in variables## L rules fr##
